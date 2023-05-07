@@ -65,17 +65,17 @@ public class LoginSteps{
 
     @And("I enter valid full name")
     public void enterValidFullnameRegister(){
-        register.inputFullnameRegister("Atika Setial");
+        register.inputFullnameRegister("Atika Setiak");
     }
 
     @And("I enter valid email in register")
     public void enterValidEmailRegister(){
-        register.inputEmailRegister("setianiatil@gmail.com");
+        register.inputEmailRegister("setianiatik@gmail.com");
     }
 
     @And("I enter valid password in register")
     public void enterValidPasswordRegister(){
-        register.inputPassword("Setial12");
+        register.inputPassword("Setiak12");
     }
 
     @And("I click login button")
