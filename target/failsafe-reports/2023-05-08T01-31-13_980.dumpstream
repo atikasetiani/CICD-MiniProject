@@ -1,0 +1,4 @@
+# Created at 2023-05-08T01:31:14.580
+Boot Manifest-JAR contains absolute paths in classpath 'D:\TUGAS SEMESTER 6\Mini Project\WebTest-MiniProject\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+

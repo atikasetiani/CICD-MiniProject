@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Orders","As user i have be able to success see purchase details of a product in cart","SUCCESS","2023-05-08T01:32:15.601+07:00[Asia/Bangkok]","0.0","7.88"
+"Orders","As user i have be able to success increasing the quantity product in cart","SUCCESS","2023-05-08T01:32:24.169+07:00[Asia/Bangkok]","0.0","8.55"
+"Orders","As user i can view details of two products that have been purchased in the cart","SUCCESS","2023-05-08T01:32:33.481+07:00[Asia/Bangkok]","0.0","7.94"

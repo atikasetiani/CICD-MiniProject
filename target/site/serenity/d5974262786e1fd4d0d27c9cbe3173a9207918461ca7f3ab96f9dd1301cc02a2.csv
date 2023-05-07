@@ -1,0 +1,7 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"login","As user i haven't be able to login when using invalid email","SUCCESS","2023-05-08T01:31:45.46+07:00[Asia/Bangkok]","0.0","4.52"
+"login","As user i haven't be able to login when using invalid password","SUCCESS","2023-05-08T01:31:50.678+07:00[Asia/Bangkok]","0.0","4.66"
+"login","As user i haven't be able to login when using invalid email and invalid password","SUCCESS","2023-05-08T01:31:56.029+07:00[Asia/Bangkok]","0.0","4.25"
+"login","As user i haven't be able to login when using empty email","SUCCESS","2023-05-08T01:32:00.949+07:00[Asia/Bangkok]","0.0","4.29"
+"login","As user i haven't be able to login when using empty password","SUCCESS","2023-05-08T01:32:05.934+07:00[Asia/Bangkok]","0.0","4.32"
+"login","As user i haven't be able to login when using empty email and empty password","SUCCESS","2023-05-08T01:32:10.921+07:00[Asia/Bangkok]","0.0","3.99"

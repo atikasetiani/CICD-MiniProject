@@ -1,0 +1,8 @@
+starter\login\Details.class
+starter\login\Login.class
+starter\stepdefinitions\LoginSteps.class
+starter\CucumberTestSuite.class
+starter\login\Products.class
+starter\login\Register.class
+starter\login\Cart.class
+starter\login\Transactions.class
